@@ -127,7 +127,7 @@ if __name__=='__main__':
     SENDKEY=os.environ["SENDKEY"]
     
     #在下方可以更改签到地址和二维码的enc
-    address=os.environ[26.068619119.188180]
+    address=os.environ[26.068619, 119.188180]
     #如果地址不是敏感信息，经常改动嫌麻烦可以不设置环境变量，address='你的地址'，即可
     #enc=''
     
